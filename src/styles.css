@@ -514,7 +514,7 @@ input.au-input.au-input-xl{
     background:#fff
 }
 .main-content.page-m{
-    padding:10% 15%!important
+    padding:10% 30% 10% 5%
 }
 
 /* 
@@ -569,8 +569,10 @@ input.au-input.au-input-xl{
     background:#e5e5e5;
     position:relative;
     margin-bottom:45px;
+    margin-left: 20%;
     padding:50px 20px;
-    border:3px solid #ccc
+    border:3px solid #ccc;
+    width: 50%;
 }
 .form-area h3{
     position:absolute;
